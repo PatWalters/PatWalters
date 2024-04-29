@@ -1,4 +1,4 @@
-I'm a Cheminformatics and Machine Learning enthusiast.  For more information about me, see my [personal page](patwalters.github.io) or my [blog, [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/)
+I'm a Cheminformatics and Machine Learning enthusiast.  For more information about me, see my [personal page](patwalters.github.io) or my [blog, Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/)
 
 <!--
 **PatWalters/PatWalters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
